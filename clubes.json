@@ -1,0 +1,68 @@
+{
+    "clubes": [
+      {
+        "nome_time": "Corinthians",
+        "estadio": "Arena Corinthians",
+        "tecnico": "Fernando Lázaro",
+        "jogadores": [
+          {
+            "nome_jogador": "Cássio",
+            "posicao": "Goleiro",
+            "idade": 35
+          },
+          {
+            "nome_jogador": "Balbuena",
+            "posicao": "Zagueiro",
+            "idade": 33
+          },
+          {
+            "nome_jogador": "Maycon",
+            "posicao": "Meio-campo",
+            "idade": 25
+          },
+          {
+            "nome_jogador": "Renato Augusto",
+            "posicao": "Meio-campo",
+            "idade": 34
+          },
+          {
+            "nome_jogador": "Yuri Alberto",
+            "posicao": "Atacante",
+            "idade": 21
+          }
+        ]
+      },
+      {
+        "nome_time": "Flamengo",
+        "estadio": "Maracanã",
+        "tecnico": "Vitor Pereira",
+        "jogadores": [
+          {
+            "nome_jogador": "Santos",
+            "posicao": "Goleiro",
+            "idade": 32
+          },
+          {
+            "nome_jogador": "David Luiz",
+            "posicao": "Zagueiro",
+            "idade": 35
+          },
+          {
+            "nome_jogador": "Éverton Ribeiro",
+            "posicao": "Meio-campo",
+            "idade": 33
+          },
+          {
+            "nome_jogador": "Arrascaeta",
+            "posicao": "Meio-campo",
+            "idade": 28
+          },
+          {
+            "nome_jogador": "Gabriel Barbosa",
+            "posicao": "Atacante",
+            "idade": 26
+          }
+        ]
+      }
+    ]
+  }
